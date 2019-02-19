@@ -37,9 +37,9 @@ app.get('/weather', (request, response) => {
 // Hiking route
 
 // Error route
-// app.use('*', (request, response) => {
-//   response.send(handleError());
-// });
+app.use('*', (request, response) => {
+  handleError('Route does not exist.', response);
+});
 
 // Turn the server on
 app.listen(PORT, () => console.log(`Listening on ${PORT}`));
@@ -50,7 +50,7 @@ app.listen(PORT, () => console.log(`Listening on ${PORT}`));
 //Error handler
 function handleError(err, res) {
   console.error(err);
-  if (res) res.status(500).send('Sorry, something went worng');
+  if (res) res.status(500).send('Sorry, something went wrong');
 }
 
 // Location data handler function
