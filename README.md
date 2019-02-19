@@ -22,7 +22,7 @@ This application is written in JavaScript and uses Node.js for server-side funct
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
 
 ## Change Log
-02-19-2019 /_/_:/_/_ - Application now…
+02-19-2019 _____ - Application now…
 
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
 
