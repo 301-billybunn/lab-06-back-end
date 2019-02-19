@@ -20,6 +20,8 @@
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
+## Time estimates
+
 ```
 Number and name of feature: 1. Repository Set Up
 
@@ -30,3 +32,39 @@ Start time: 9:15 am
 Finish time: _____
 
 Actual time needed to complete: _____
+```
+
+```
+Number and name of feature: 2. Locations
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+```
+
+```
+Number and name of feature: 3. Weather
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+```
+```
+Number and name of feature: 4. Errors
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+```
