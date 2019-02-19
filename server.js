@@ -6,11 +6,10 @@ require('dotenv').config();
 const express = require('express');
 const app = express();
 const cors = require('cors');
+app.use(cors());
 
 // Establish the PORT number
 const PORT = process.env.PORT || 3000;
-const app = express();
-app.use(cors());
 
 // Tell express where to load our "html" files from
 app.use(express.static('./public'));
