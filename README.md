@@ -48,21 +48,21 @@ Actual time needed to complete: 45 minutes
 ```
 Number and name of feature: 2. Locations
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hours
 
-Start time: _____
+Start time: 10:00 am
 
-Finish time: _____
+Finish time: 12:30 pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours, 30 minutes
 ```
 
 ```
 Number and name of feature: 3. Weather
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 12:30 pm
 
 Finish time: _____
 
