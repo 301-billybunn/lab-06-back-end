@@ -1,7 +1,8 @@
 # City Explorer
 
 **Authors**: Billy Bunn and Elizabeth Kavalski
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 1.0.0 
+<-- (increment the patch/fix version number if you make more commits past your first submission) -->
 
 ## Overview
 City Explorer is a mapping app that allows users to search for any location and returns a map of the location and data from several sources: 
