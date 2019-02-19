@@ -64,9 +64,9 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 12:30 pm
 
-Finish time: _____
+Finish time: 1:10 pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 40 minutes
 ```
 ```
 Number and name of feature: 4. Errors
